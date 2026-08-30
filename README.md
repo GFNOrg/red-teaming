@@ -1,12 +1,12 @@
 # Learning Diverse Attacks on Large Language Models for Robust Red-teaming and Safety Tuning
 
-This repository contains code for Red-teaming with GFlowNet, as described in the paper.
+This repository contains code for Red-teaming with GFlowNet, as described in the ICLR 2025 paper.
 
 **Note**: We are actively working on testing and cleaning up the code for release. If you encounter issues before that please let us know!
 
 
 **Learning Diverse Attacks on Large Language Models for Robust Red-teaming and Safety Tuning**<br />
-Seanie Lee, Minsu Kim, Lynn Cherif, David Dobre, Juho Lee, Sung Ju Hwang, Kenji Kawaguchi, Gauthier Gidel, Yoshua Bengio, Nikolay Malkin, Moksh Jain <br/>
+Seanie Lee, Minsu Kim, Lynn Cherif, David Dobre, Juho Lee, Sung Ju Hwang, Kenji Kawaguchi, Gauthier Gidel, Yoshua Bengio, Esmeralda S. Whitammer, Moksh Jain <br/>
 Paper: https://arxiv.org/abs/2405.18540
 <details>
 <summary>
@@ -17,7 +17,7 @@ BibTeX
 @article{
 lee2025learning,
 title={Learning Diverse Attacks on Large Language Models for Robust Red-Teaming and Safety Tuning},
-author={Seanie Lee and Minsu Kim and Lynn Cherif and David Dobre and Juho Lee and Sung Ju Hwang and Kenji Kawaguchi and Gauthier Gidel and Yoshua Bengio and Nikolay Malkin and Moksh Jain},
+author={Seanie Lee and Minsu Kim and Lynn Cherif and David Dobre and Juho Lee and Sung Ju Hwang and Kenji Kawaguchi and Gauthier Gidel and Yoshua Bengio and Esmeralda S. Whitammer and Moksh Jain},
 journal={International Conference on Learning Representations (ICLR)},
 year={2025}
 }
